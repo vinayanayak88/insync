@@ -10,3 +10,6 @@ publish/subscribe based calendar application which helps the team to be in sync
 + subscribe to your team mates leaves
 - check out your teammate's profile to know about his current status
 + publish your leave/remote work/out of office
+
+
+
